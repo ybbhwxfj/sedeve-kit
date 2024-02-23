@@ -17,9 +17,9 @@ version = "0.0.1"
 edition = "2021"
 authors = ["Guo Hua <guohua16@outlook.com>"]
 description = "ScupT Specification-Driven Development Kit"
-repository = "https://github.com/ybbhwxfj/sedeve-kit/"
-homepage = "https://github.com/ybbhwxfj/"
-documentation = "https://github.com/ybbhwxfj/sedeve-kit/README.md"
+repository = "https://github.com/scuptio/sedeve-kit/"
+homepage = "https://github.com/scuptio/"
+documentation = "https://github.com/scuptio/sedeve-kit/README.md"
 readme = "README.md"
 license = "Apache-2.0"
 
