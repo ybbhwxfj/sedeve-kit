@@ -1,6 +1,6 @@
 # sedeve-kit
 
-![build](https://github.com/scuptio/sedeve-kit/actions/workflows/build.yaml/badge.svg)
+![build](https://github.com/ybbhwxfj/sedeve-kit/actions/workflows/build.yaml/badge.svg)
 
 
 
